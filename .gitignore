@@ -1,0 +1,6 @@
+*.png
+*.txt
+.DS_Store
+*.dat
+SD*
+__pycache__
